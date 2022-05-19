@@ -1,6 +1,7 @@
 # ℹ️ PyScriptClone
 
 * ### PyScriptClone is a cloned version of PyScript Website. 🌐
+* ### The Main Reason for Cloning the Website is To Improve the skills.
 
 ---
 
